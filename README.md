@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Keltexan
-- 👀 I’m interested in learning web development
+- 👀 I’m interested in web development and design
 - 🌱 I’m currently learning HTML5, CSS3, and JavaScript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
